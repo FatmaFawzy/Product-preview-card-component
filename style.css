@@ -95,7 +95,7 @@ body{
 .bmg{
     width: 50%;
     height: 100%;
-    background-image: url(image-product-desktop.jpg);
+    background-image: url(images/image-product-desktop.jpg);
     background-size: cover;
     border-top-left-radius: 12px;;
     border-bottom-left-radius: 12px;;
@@ -145,7 +145,7 @@ body{
     border-bottom-right-radius: 0px;
     width: 100%;
     height: 50%;
-    background-image: url(../product-preview-card-component-main/images/image-product-mobile.jpg);
+    background-image: url(images/image-product-mobile.jpg);
     }
     .bttn{
         font-family: 'Montserrat', sans-serif;
